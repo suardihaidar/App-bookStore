@@ -7,8 +7,7 @@ import {Icon} from 'native-base'
 
 const {width: WIDTH} = Dimensions.get('window')
 
-type Props = {};
-export default class Login extends Component<Props> {
+export default class Login extends Component{
   constructor(props) {
     super(props)
     this.state = {
