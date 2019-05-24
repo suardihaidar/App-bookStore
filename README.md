@@ -1,0 +1,19 @@
+# App-bookStore
+
+## Getting Started
+
+* Install the dependencies.
+```sh
+yarn
+```
+* Run the metro bundler
+```sh
+react-native start
+```
+* Build Application, 
+IOS : `react-native run-android`, 
+Android : `react-native run-ios`
+
+## Build With
+
+[React Native](https://facebook.github.io/react-native/) - A framework for building native apps using Javascript and React
